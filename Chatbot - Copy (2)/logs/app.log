@@ -1,0 +1,341 @@
+2026-02-15 16:29:28,364 - root - INFO - Environment variables loaded successfully.
+2026-02-15 16:32:35,942 - root - INFO - Environment variables loaded successfully.
+2026-02-15 16:32:36,769 - root - INFO - Environment variables loaded successfully.
+2026-02-15 16:48:02,570 - root - INFO - Environment variables loaded successfully.
+2026-02-15 16:48:03,380 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:07:12,789 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:07:13,997 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:10:22,268 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:10:23,436 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:11:18,977 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:11:20,215 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:11:20,294 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:11:24,020 - src.utils - INFO - Loaded 76 pages/rows from 1. book2.pdf
+2026-02-15 17:11:56,004 - src.utils - INFO - Loaded 394 pages/rows from 3. guideline-170-en.pdf
+2026-02-15 17:12:04,694 - src.utils - INFO - Loaded 125 pages/rows from 4. intensive care unit admission, discharge, and triage..pdf
+2026-02-15 17:14:35,422 - src.utils - INFO - Loaded 1874 pages/rows from 5. 2022, CURRENT Medical Diagnosis and Treatment- Original.pdf
+2026-02-15 17:14:59,342 - src.utils - INFO - Loaded 88 pages/rows from 7. WHO 2025 Stats.pdf
+2026-02-15 17:15:57,407 - src.utils - INFO - Loaded 402 pages/rows from 8. macleods_clinical_examination_14_ed.pdf
+2026-02-15 17:15:59,380 - src.utils - ERROR - Error loading Mental_Health_FAQ.csv: Error loading data\Mental_Health_FAQ.csv
+2026-02-15 17:15:59,911 - src.utils - INFO - Total chunks created: 6084
+2026-02-15 17:15:59,914 - src.utils - INFO - Indexing 6084 documents...
+2026-02-15 17:15:59,914 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-15 17:16:01,416 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-15 17:22:31,860 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:22:33,235 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:22:33,292 - root - INFO - Environment variables loaded successfully.
+2026-02-15 17:22:36,411 - src.utils - INFO - Loaded 76 pages/rows from 1. book2.pdf
+2026-02-15 17:22:39,749 - src.utils - INFO - Loaded 145 pages/rows from 2. ????? ????????? ???????.pdf
+2026-02-15 17:23:01,167 - src.utils - INFO - Loaded 394 pages/rows from 3. guideline-170-en.pdf
+2026-02-15 17:23:08,294 - src.utils - INFO - Loaded 125 pages/rows from 4. intensive care unit admission, discharge, and triage..pdf
+2026-02-15 17:25:15,829 - src.utils - INFO - Loaded 1874 pages/rows from 5. 2022, CURRENT Medical Diagnosis and Treatment- Original.pdf
+2026-02-15 17:25:40,013 - src.utils - INFO - Loaded 88 pages/rows from 7. WHO 2025 Stats.pdf
+2026-02-15 17:26:38,408 - src.utils - INFO - Loaded 402 pages/rows from 8. macleods_clinical_examination_14_ed.pdf
+2026-02-15 17:26:40,355 - src.utils - ERROR - Error loading Mental_Health_FAQ.csv: Error loading data\Mental_Health_FAQ.csv
+2026-02-15 17:26:40,857 - src.utils - INFO - Total chunks created: 6084
+2026-02-15 17:26:40,860 - src.utils - INFO - Indexing 6084 documents...
+2026-02-15 17:26:40,860 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-15 17:26:41,010 - src.utils - INFO - Indexing batch 1/191 (32 docs)
+2026-02-15 17:26:41,663 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-15 17:27:06,008 - src.utils - INFO - Indexing batch 2/191 (32 docs)
+2026-02-15 17:27:23,194 - src.utils - INFO - Indexing batch 3/191 (32 docs)
+2026-02-15 17:27:37,615 - src.utils - INFO - Indexing batch 4/191 (32 docs)
+2026-02-15 17:27:48,350 - src.utils - INFO - Indexing batch 5/191 (32 docs)
+2026-02-15 17:28:10,374 - src.utils - INFO - Indexing batch 6/191 (32 docs)
+2026-02-15 17:28:25,572 - src.utils - INFO - Indexing batch 7/191 (32 docs)
+2026-02-15 17:28:45,092 - src.utils - INFO - Indexing batch 8/191 (32 docs)
+2026-02-15 17:29:00,370 - src.utils - INFO - Indexing batch 9/191 (32 docs)
+2026-02-15 17:29:20,174 - src.utils - INFO - Indexing batch 10/191 (32 docs)
+2026-02-15 17:31:25,926 - src.utils - ERROR - Error indexing batch 288: 504 Server Error: Gateway Time-out for url: https://router.huggingface.co/hf-inference/models/BAAI/bge-m3/pipeline/feature-extraction
+2026-02-15 17:31:30,928 - src.utils - INFO - Retrying batch...
+2026-02-15 17:31:52,920 - src.utils - INFO - Indexing batch 11/191 (32 docs)
+2026-02-15 17:32:16,373 - src.utils - INFO - Indexing batch 12/191 (32 docs)
+2026-02-15 19:23:21,498 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:23:23,167 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:23:23,232 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:23:27,438 - src.utils - INFO - Loaded 76 pages/rows from 1. book2.pdf
+2026-02-15 19:23:31,609 - src.utils - INFO - Loaded 145 pages/rows from 2. ????? ????????? ???????.pdf
+2026-02-15 19:23:56,778 - src.utils - INFO - Loaded 394 pages/rows from 3. guideline-170-en.pdf
+2026-02-15 19:24:03,197 - src.utils - INFO - Loaded 125 pages/rows from 4. intensive care unit admission, discharge, and triage..pdf
+2026-02-15 19:24:11,593 - src.utils - INFO - Loaded 88 pages/rows from 7. WHO 2025 Stats.pdf
+2026-02-15 19:24:11,993 - src.utils - ERROR - Error loading Mental_Health_FAQ.csv: Error loading data\Mental_Health_FAQ.csv
+2026-02-15 19:24:12,036 - src.utils - INFO - Total chunks created: 874
+2026-02-15 19:24:12,037 - src.utils - INFO - Indexing 874 documents...
+2026-02-15 19:24:12,037 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-15 19:24:12,198 - src.utils - INFO - Indexing batch 1/28 (32 docs)
+2026-02-15 19:24:13,189 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-15 19:24:31,722 - src.utils - INFO - Indexing batch 2/28 (32 docs)
+2026-02-15 19:24:49,085 - src.utils - INFO - Indexing batch 3/28 (32 docs)
+2026-02-15 19:25:08,250 - src.utils - INFO - Indexing batch 4/28 (32 docs)
+2026-02-15 19:25:18,068 - src.utils - INFO - Indexing batch 5/28 (32 docs)
+2026-02-15 19:25:41,172 - src.utils - INFO - Indexing batch 6/28 (32 docs)
+2026-02-15 19:25:59,132 - src.utils - INFO - Indexing batch 7/28 (32 docs)
+2026-02-15 19:26:26,004 - src.utils - INFO - Indexing batch 8/28 (32 docs)
+2026-02-15 19:26:46,892 - src.utils - INFO - Indexing batch 9/28 (32 docs)
+2026-02-15 19:27:11,093 - src.utils - INFO - Indexing batch 10/28 (32 docs)
+2026-02-15 19:27:27,416 - src.utils - INFO - Indexing batch 11/28 (32 docs)
+2026-02-15 19:27:46,151 - src.utils - INFO - Indexing batch 12/28 (32 docs)
+2026-02-15 19:28:06,443 - src.utils - INFO - Indexing batch 13/28 (32 docs)
+2026-02-15 19:28:34,531 - src.utils - INFO - Indexing batch 14/28 (32 docs)
+2026-02-15 19:29:02,133 - src.utils - INFO - Indexing batch 15/28 (32 docs)
+2026-02-15 19:29:26,033 - src.utils - INFO - Indexing batch 16/28 (32 docs)
+2026-02-15 19:29:40,616 - src.utils - INFO - Indexing batch 17/28 (32 docs)
+2026-02-15 19:29:59,336 - src.utils - INFO - Indexing batch 18/28 (32 docs)
+2026-02-15 19:30:17,981 - src.utils - INFO - Indexing batch 19/28 (32 docs)
+2026-02-15 19:30:32,640 - src.utils - INFO - Indexing batch 20/28 (32 docs)
+2026-02-15 19:30:54,222 - src.utils - INFO - Indexing batch 21/28 (32 docs)
+2026-02-15 19:30:55,130 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:30:56,542 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:30:56,545 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:30:59,845 - src.utils - INFO - Loaded 76 pages/rows from 1. book2.pdf
+2026-02-15 19:31:02,905 - src.utils - INFO - Loaded 145 pages/rows from 2. ????? ????????? ???????.pdf
+2026-02-15 19:31:18,423 - src.utils - INFO - Indexing batch 22/28 (32 docs)
+2026-02-15 19:31:24,220 - src.utils - INFO - Loaded 394 pages/rows from 3. guideline-170-en.pdf
+2026-02-15 19:31:30,837 - src.utils - INFO - Loaded 125 pages/rows from 4. intensive care unit admission, discharge, and triage..pdf
+2026-02-15 19:31:39,488 - src.utils - INFO - Loaded 88 pages/rows from 7. WHO 2025 Stats.pdf
+2026-02-15 19:31:39,855 - src.utils - INFO - Indexing batch 23/28 (32 docs)
+2026-02-15 19:31:39,869 - src.utils - ERROR - Error loading Mental_Health_FAQ.csv: Error loading data\Mental_Health_FAQ.csv
+2026-02-15 19:31:39,909 - src.utils - INFO - Total chunks created: 874
+2026-02-15 19:31:39,911 - src.utils - INFO - Indexing 874 documents...
+2026-02-15 19:31:39,911 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-15 19:31:40,072 - src.utils - INFO - Indexing batch 1/28 (32 docs)
+2026-02-15 19:31:41,356 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-15 19:32:04,438 - src.utils - INFO - Indexing batch 2/28 (32 docs)
+2026-02-15 19:32:08,180 - src.utils - INFO - Indexing batch 24/28 (32 docs)
+2026-02-15 19:32:21,928 - src.utils - INFO - Indexing batch 3/28 (32 docs)
+2026-02-15 19:32:33,489 - src.utils - INFO - Indexing batch 25/28 (32 docs)
+2026-02-15 19:32:39,377 - src.utils - INFO - Indexing batch 4/28 (32 docs)
+2026-02-15 19:33:02,197 - src.utils - INFO - Indexing batch 26/28 (32 docs)
+2026-02-15 19:33:11,387 - src.utils - INFO - Indexing batch 5/28 (32 docs)
+2026-02-15 19:33:28,945 - src.utils - INFO - Indexing batch 27/28 (32 docs)
+2026-02-15 19:33:34,927 - src.utils - INFO - Indexing batch 6/28 (32 docs)
+2026-02-15 19:33:52,017 - src.utils - INFO - Indexing batch 28/28 (10 docs)
+2026-02-15 19:33:59,374 - src.utils - INFO - Indexing complete.
+2026-02-15 19:34:13,150 - src.utils - INFO - Indexing batch 7/28 (32 docs)
+2026-02-15 19:34:38,391 - src.utils - INFO - Indexing batch 8/28 (32 docs)
+2026-02-15 19:35:00,612 - src.utils - INFO - Indexing batch 9/28 (32 docs)
+2026-02-15 19:35:19,590 - src.utils - INFO - Indexing batch 10/28 (32 docs)
+2026-02-15 19:35:44,753 - src.utils - INFO - Indexing batch 11/28 (32 docs)
+2026-02-15 19:36:07,408 - src.utils - INFO - Indexing batch 12/28 (32 docs)
+2026-02-15 19:36:25,261 - src.utils - INFO - Indexing batch 13/28 (32 docs)
+2026-02-15 19:36:51,621 - src.utils - INFO - Indexing batch 14/28 (32 docs)
+2026-02-15 19:37:06,867 - src.utils - INFO - Indexing batch 15/28 (32 docs)
+2026-02-15 19:37:23,049 - src.utils - INFO - Indexing batch 16/28 (32 docs)
+2026-02-15 19:37:45,674 - src.utils - INFO - Indexing batch 17/28 (32 docs)
+2026-02-15 19:38:07,489 - src.utils - INFO - Indexing batch 18/28 (32 docs)
+2026-02-15 19:38:31,349 - src.utils - INFO - Indexing batch 19/28 (32 docs)
+2026-02-15 19:38:53,396 - src.utils - INFO - Indexing batch 20/28 (32 docs)
+2026-02-15 19:39:12,006 - src.utils - INFO - Indexing batch 21/28 (32 docs)
+2026-02-15 19:39:33,577 - src.utils - INFO - Indexing batch 22/28 (32 docs)
+2026-02-15 19:39:55,793 - src.utils - INFO - Indexing batch 23/28 (32 docs)
+2026-02-15 19:40:31,060 - src.utils - INFO - Indexing batch 24/28 (32 docs)
+2026-02-15 19:40:59,854 - src.utils - INFO - Indexing batch 25/28 (32 docs)
+2026-02-15 19:41:36,722 - src.utils - INFO - Indexing batch 26/28 (32 docs)
+2026-02-15 19:42:02,311 - src.utils - INFO - Indexing batch 27/28 (32 docs)
+2026-02-15 19:42:26,908 - src.utils - INFO - Indexing batch 28/28 (10 docs)
+2026-02-15 19:42:36,709 - src.utils - INFO - Indexing complete.
+2026-02-15 19:43:53,404 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:43:54,378 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:43:54,382 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:43:54,382 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-15 19:43:54,516 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-15 19:43:55,333 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-15 19:43:56,858 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-15 19:48:36,136 - src.utils - INFO - Processing query: I think I have depression, can you help?
+2026-02-15 19:48:38,970 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-02-15 19:48:39,708 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite-preview-02-05:generateContent "HTTP/1.1 404 Not Found"
+2026-02-15 19:48:39,719 - src.utils - ERROR - Error generating answer: Error calling model 'gemini-2.0-flash-lite-preview-02-05' (NOT_FOUND): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-2.0-flash-lite-preview-02-05 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-02-15 19:52:47,325 - src.utils - INFO - Processing query: What about now
+2026-02-15 19:52:50,752 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-02-15 19:52:51,550 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite-preview-02-05:generateContent "HTTP/1.1 404 Not Found"
+2026-02-15 19:52:51,552 - src.utils - ERROR - Error generating answer: Error calling model 'gemini-2.0-flash-lite-preview-02-05' (NOT_FOUND): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-2.0-flash-lite-preview-02-05 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-02-15 19:54:38,840 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:54:39,761 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:54:39,764 - root - INFO - Environment variables loaded successfully.
+2026-02-15 19:54:39,764 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-15 19:54:39,898 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-15 19:54:40,642 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-15 19:54:42,278 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-15 19:55:27,028 - src.utils - INFO - Processing query: I think I am depressed, can you help?
+2026-02-15 19:55:30,047 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-02-15 19:55:31,929 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-15 19:56:43,994 - src.utils - INFO - Processing query: I have a headache, please help
+2026-02-15 19:56:45,082 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-02-15 19:56:45,689 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite-preview-02-05:generateContent "HTTP/1.1 404 Not Found"
+2026-02-15 19:56:45,693 - src.utils - ERROR - Error generating answer: Error calling model 'gemini-2.0-flash-lite-preview-02-05' (NOT_FOUND): 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-2.0-flash-lite-preview-02-05 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+2026-02-15 19:57:31,700 - src.utils - INFO - Processing query: I have a headache, please help
+2026-02-15 19:57:31,703 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-02-15 19:57:34,831 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-15 19:57:35,295 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-02-15 19:57:39,214 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-15 20:19:09,797 - root - INFO - Environment variables loaded successfully.
+2026-02-15 20:19:10,668 - root - INFO - Environment variables loaded successfully.
+2026-02-15 20:19:10,672 - root - INFO - Environment variables loaded successfully.
+2026-02-15 20:19:16,015 - src.utils - INFO - Loaded 125 pages/rows from Egyption Health Council Guidelines.pdf
+2026-02-15 20:19:16,504 - src.utils - ERROR - Error loading Mental_Health_FAQ.csv: Error loading data\Mental_Health_FAQ.csv
+2026-02-15 20:19:19,131 - src.utils - INFO - Loaded 76 pages/rows from Ministry of Health and Population Practical Guidelines.pdf
+2026-02-15 20:19:22,164 - src.utils - INFO - Loaded 145 pages/rows from Principles of first aid.pdf
+2026-02-15 20:19:29,011 - src.utils - INFO - Loaded 88 pages/rows from WHO 2025 Stats.pdf
+2026-02-15 20:19:49,858 - src.utils - INFO - Loaded 394 pages/rows from World Health Organization Clinical Guidlines.pdf
+2026-02-15 20:19:50,884 - src.utils - INFO - Total chunks created: 874
+2026-02-15 20:19:50,884 - src.utils - INFO - Indexing 874 documents...
+2026-02-15 20:19:50,885 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-15 20:19:51,006 - src.utils - INFO - Indexing batch 1/28 (32 docs)
+2026-02-15 20:19:51,673 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-15 20:20:17,567 - src.utils - INFO - Indexing batch 2/28 (32 docs)
+2026-02-15 20:20:39,153 - src.utils - INFO - Indexing batch 3/28 (32 docs)
+2026-02-15 20:20:59,735 - src.utils - INFO - Indexing batch 4/28 (32 docs)
+2026-02-15 20:21:20,413 - src.utils - INFO - Indexing batch 5/28 (32 docs)
+2026-02-15 20:21:47,605 - src.utils - INFO - Indexing batch 6/28 (32 docs)
+2026-02-15 20:22:13,963 - src.utils - INFO - Indexing batch 7/28 (32 docs)
+2026-02-15 20:22:41,569 - src.utils - INFO - Indexing batch 8/28 (32 docs)
+2026-02-15 20:23:00,233 - src.utils - INFO - Indexing batch 9/28 (32 docs)
+2026-02-15 20:23:23,977 - src.utils - INFO - Indexing batch 10/28 (32 docs)
+2026-02-15 20:23:32,900 - src.utils - INFO - Indexing batch 11/28 (32 docs)
+2026-02-15 20:23:51,311 - src.utils - INFO - Indexing batch 12/28 (32 docs)
+2026-02-15 20:24:11,898 - src.utils - INFO - Indexing batch 13/28 (32 docs)
+2026-02-15 20:24:34,365 - src.utils - INFO - Indexing batch 14/28 (32 docs)
+2026-02-15 20:25:02,775 - src.utils - INFO - Indexing batch 15/28 (32 docs)
+2026-02-15 20:25:23,572 - src.utils - INFO - Indexing batch 16/28 (32 docs)
+2026-02-15 20:25:47,258 - src.utils - INFO - Indexing batch 17/28 (32 docs)
+2026-02-15 20:26:04,026 - src.utils - INFO - Indexing batch 18/28 (32 docs)
+2026-02-15 20:26:25,190 - src.utils - INFO - Indexing batch 19/28 (32 docs)
+2026-02-15 20:26:45,128 - src.utils - INFO - Indexing batch 20/28 (32 docs)
+2026-02-15 20:27:02,254 - src.utils - INFO - Indexing batch 21/28 (32 docs)
+2026-02-15 20:27:21,709 - src.utils - INFO - Indexing batch 22/28 (32 docs)
+2026-02-15 20:27:43,112 - src.utils - INFO - Indexing batch 23/28 (32 docs)
+2026-02-15 20:28:02,960 - src.utils - INFO - Indexing batch 24/28 (32 docs)
+2026-02-15 20:28:24,063 - src.utils - INFO - Indexing batch 25/28 (32 docs)
+2026-02-15 20:28:46,749 - src.utils - INFO - Indexing batch 26/28 (32 docs)
+2026-02-15 20:29:05,876 - src.utils - INFO - Indexing batch 27/28 (32 docs)
+2026-02-15 20:29:33,480 - src.utils - INFO - Indexing batch 28/28 (10 docs)
+2026-02-15 20:29:40,705 - src.utils - INFO - Indexing complete.
+2026-02-15 21:28:03,946 - root - INFO - Environment variables loaded successfully.
+2026-02-15 21:28:05,296 - root - INFO - Environment variables loaded successfully.
+2026-02-15 21:28:05,300 - root - INFO - Environment variables loaded successfully.
+2026-02-15 21:28:05,300 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-15 21:28:05,421 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-15 21:28:06,504 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-15 21:28:08,200 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-15 21:28:42,849 - src.utils - INFO - Processing query: How to deal with flu?
+2026-02-15 21:28:45,595 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-02-15 21:28:47,723 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-16 01:32:23,079 - src.utils - INFO - Processing query: q
+2026-02-16 01:32:23,084 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-02-16 04:30:08,925 - root - INFO - Environment variables loaded successfully.
+2026-02-16 04:30:08,925 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 04:30:09,093 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 04:30:09,637 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 12:35:44,469 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:35:44,471 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:35:44,472 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:35:44,472 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 12:35:44,612 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 12:35:45,910 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 12:35:48,073 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 12:38:40,136 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:38:40,137 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:38:40,138 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:38:53,036 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:38:53,037 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:38:53,038 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:38:53,039 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 12:38:53,150 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 12:38:53,719 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 12:38:55,287 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 12:39:03,013 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:39:03,014 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:39:03,015 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:39:03,016 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 12:39:03,124 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 12:39:03,651 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 12:39:05,213 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 12:39:13,446 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:39:13,447 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:39:13,449 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:39:13,450 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 12:39:13,599 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 12:39:14,227 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 12:39:15,884 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 12:44:30,141 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:44:30,143 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:44:30,143 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:44:30,145 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 12:44:30,253 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 12:44:30,762 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 12:44:32,211 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 12:44:56,795 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:44:56,797 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:44:56,797 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:44:56,799 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 12:44:56,902 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 12:44:57,407 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 12:44:58,866 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 12:47:49,401 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:47:49,402 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:47:49,403 - root - INFO - Environment variables loaded successfully.
+2026-02-16 12:47:49,404 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 12:47:49,512 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 12:47:50,024 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 12:47:51,490 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 13:03:14,962 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:03:14,963 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:03:14,965 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:03:14,965 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 13:03:15,070 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 13:03:15,578 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 13:03:16,998 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 13:05:38,403 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:05:38,404 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:05:38,405 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:05:38,406 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 13:05:38,513 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 13:05:39,073 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 13:05:40,550 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 13:06:06,586 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:06,587 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:06,588 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:06,589 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 13:06:06,695 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 13:06:07,213 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 13:06:08,670 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 13:06:22,451 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:22,453 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:22,454 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:22,455 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 13:06:22,570 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 13:06:23,092 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 13:06:24,553 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 13:06:36,411 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:36,413 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:36,415 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:36,415 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 13:06:36,522 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 13:06:37,046 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 13:06:38,440 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 13:06:54,744 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:54,745 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:54,746 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:06:54,747 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 13:06:54,907 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 13:06:55,463 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 13:06:56,917 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 13:07:16,369 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:07:16,370 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:07:16,371 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:07:16,372 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 13:07:16,473 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 13:07:16,972 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 13:07:18,441 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 13:11:56,006 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:11:56,008 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:11:56,009 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:11:56,009 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 13:11:56,127 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
+2026-02-16 13:11:56,782 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-16 13:11:58,331 - src.utils - INFO - Medical Chatbot initialized.
+2026-02-16 13:18:32,939 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:18:32,941 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:18:32,941 - root - INFO - Environment variables loaded successfully.
+2026-02-16 13:18:32,942 - src.utils - INFO - Using HuggingFace Endpoint Embeddings for BAAI/bge-m3
+2026-02-16 13:18:33,065 - src.utils - INFO - Loading existing vector store from C:\Users\Elashry\Desktop\Chatbot\chroma_db
