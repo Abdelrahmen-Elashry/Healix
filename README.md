@@ -124,7 +124,6 @@
 - Composer 2.x
 - MySQL 8.0 or PostgreSQL
 - Node.js 18+ & NPM
-- Git
 
 ### Step-by-Step Setup
 
